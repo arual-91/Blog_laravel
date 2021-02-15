@@ -12,7 +12,7 @@
 			
 		@foreach ($articles as $article)
 			<article class="pt-4">
-				<h4>{{$article->title}}</h4>
+				<h4>{{$article->title}}</h4>ghg
 				<p >{{$article->body}}</p>
 				<!--$article-> find()-->
 			</article>
